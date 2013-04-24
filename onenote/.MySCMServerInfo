@@ -1,0 +1,10 @@
+SCMBranch=Quality Assurance
+SCMRepository=Quality Assurance/onenote runreport/onenote
+SCMMainlineUUID={a627a217-1d23-4a06-92b8-485469f71535}
+SCMBranchRepositoryID=2173
+__init__.py;0;1;1320946149;
+__init__.pyc;2855494708;1;1321084447;
+parse.py;3310371129;6;1326478665;
+oneapp.py;1302184253;4;1327363133;
+oneapp.pyc;417347835;2;1330711205;
+parse.pyc;2831007480;2;1330711205;
